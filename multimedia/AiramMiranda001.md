@@ -8,15 +8,9 @@
  [![Airam Miranda](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.gitanosoftware.com.br/cvairam/)
 
  </div>
-
-![carbon](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/code1.png)
-
-<!---
-
-## Tech I Fonder
+<div align="left">
  
-
-![alt](https://github.com/airam1968/airam1968/blob/master/assets/linkedinBack1.png)
+Um pouco sobre mim...
 
 Sou uma pessoa curiosa por natureza e vocação, trabalho com TI a mais de 3 décadas e sigo sempre aprendendo coisas novas e interessantes.
 
@@ -34,20 +28,10 @@ Desenvolvimento de Software, Consultor, Mentor, Filosofia e Desenvolvimento Huma
 - 📫 Preciso sentir progresso em tudo que faço!
 - ⚡ Fato divertido sobre mim: Adoro velocidade e movimento!!
 
-![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=VedantKhairnar&hide=["issues"]&show_icons=true)
-
--->
-
-### Consider leaving a :star: for **[Chest X-Ray COVID-19](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :mask: [Detection](https://github.com/VedantKhairnar/COVID-19-Chest-X-Ray-Infection-Classification) :india:** built by me! :hugs: <br>
+![Airam's github stats](https://github-readme-stats.vercel.app/api?username=airam1968&hide=["issues"]&show_icons=true)
+</div>
 
 
+![Made with love in Brazil](https://madewithlove.now.sh/br?heart=true&template=for-the-badge)
 
-
-
-[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/0)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/0)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/1)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/1)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/2)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/2)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/3)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/3)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/4)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/4)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/5)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/5)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/6)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/6)[![](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/images/7)](https://sourcerer.io/fame/VedantKhairnar/VedantKhairnar/VedantKhairnar.github.io/links/7)
-
-
-
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-
-## ⭐️ from [Vedant Khairnar](https://github.com/VedantKhairnar)
+## ⭐️ from [Airam1968](https://github.com/airam1968)
