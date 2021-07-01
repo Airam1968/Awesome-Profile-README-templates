@@ -16,24 +16,23 @@
 ## Tech I Fonder
  
 
+![alt](https://github.com/airam1968/airam1968/blob/master/assets/linkedinBack1.png)
 
-![alt](https://github.com/VedantKhairnar/VedantKhairnar/blob/master/assets/linkedinBack1.png)
+Sou uma pessoa curiosa por natureza e vocação, trabalho com TI a mais de 3 décadas e sigo sempre aprendendo coisas novas e interessantes.
 
-A person to whom computers fascinate more than humans, a person with great interest in Astronomy, Chemistry and History.
+Também tenho interesses em 
+Desenvolvimento| Big Data| IA| Cloud| .NET| ETL| Mentoria| Soft Skills| Arquiteturas Modernas e muito mais!!
 
-A person who is also
-Dev| Intern@Tesselate Imaging| Beta Microsoft Student Partner| Freelancer| DSC RCOEM Core| AI Mentor @Tesseract Coding| FOSS Enthusiast| in a DEEP Life!!
-
-Pythonic Developer, Freelancer, Philantrophist, Graphics Designer and much more.... 
+Desenvolvimento de Software, Consultor, Mentor, Filosofia e Desenvolvimento Humano.... 
 
 
-- 🔭 I’m currently working on my startup, Stay Tuned!!!
-- 🌱 I’m currently establishing a coding community!! 
-- 👯 I love to meet new people!!!
-- 🧥 Corrupt Fear US, The Honest Support US, The Heroic join US, Everyone Expect US!!
-- 💬 Ask me about any sort of motivation!!!
-- 📫 How to reach me: [http://vedantkhairnar.ml/](http://vedantkhairnar.ml/)
-- ⚡ Fun fact: Gimme Music and I will work 48hrs a day!!
+- 🔭 Atualmente trabalho na Avanade Brasil!!!
+- 🌱 Sou mentor em algumas iniciativas de desenvolvimento humano para desenvolvedores!! 
+- 👯 Adoro pessoas e contribuir em seu desenvolvimento!!!
+- 🧥 Carater para mim é o único valor inegociável!!
+- 💬 Pergunto sobre tudo!!!
+- 📫 Preciso sentir progresso em tudo que faço!
+- ⚡ Fato divertido sobre mim: Adoro velocidade e movimento!!
 
 ![Vedant's github stats](https://github-readme-stats.vercel.app/api?username=VedantKhairnar&hide=["issues"]&show_icons=true)
 
